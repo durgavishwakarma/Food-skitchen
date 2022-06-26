@@ -1,0 +1,28 @@
+.App {
+  background-color: rgb(81, 81, 147);
+  padding: 15px;
+  color: aliceblue;
+  font-size: 30px;
+}
+.welcome {
+  margin-top: 15%;
+  margin-left: 38%;
+  font-size: 50px;
+}
+.btn {
+  margin-left: 50%;
+}
+.container {
+
+
+  margin-top: 10%;
+  margin-left: 25%;
+}
+.container1 {
+  margin-top: 5%;
+  margin-left: 25%;
+}
+.container2 {
+  margin-left: 50%;
+
+}
